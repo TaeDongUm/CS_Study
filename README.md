@@ -24,6 +24,7 @@
 - Blocking & Non-Blocking I/O
 
 <br>
+
 ## 📌 운영체제
 
 - 운영체제란?
@@ -58,6 +59,7 @@
 - 레디스(Redis)
 
 <br>
+
 ## 📌 Language
 
 - Java
@@ -78,7 +80,8 @@
   - Access Modifier
   - Wrapper class
  
-  <br>
+<br>
+
   ## 📌 Web
 
 - HTTP Method
