@@ -30,7 +30,7 @@
 
 
 
-![OSI 모델과 TCP_IP 모델 계층 비교.png](C:\Users\etd93\Desktop\CS_Study\Network\images\OSI%20모델과%20TCP_IP%20모델%20계층%20비교.png)
+![OSI 모델과 TCP_IP 모델 계층 비교.png](https://github.com/TaeDongUm/CS_Study/blob/main/Network/images/OSI 모델과 TCP_IP 모델 계층 비교.png)
 
                     <출처: [네트워크 통신에 필수적인 프로토콜 이해하기 | 와탭 블로그](https://www.whatap.io/ko/blog/160/)>    
 
